@@ -58,14 +58,14 @@ const Index = () => {
   })) || [];
 
   return (
-    <main className="min-h-screen bg-background flex flex-col items-center justify-center p-6 md:p-12">
+    <main className="min-h-screen bg-background flex flex-col items-center pt-16 md:pt-24 lg:pt-32p-6 md:p-12">
       {/* Background gradient effect */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-primary/10 rounded-full blur-3xl" />
         <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-accent/10 rounded-full blur-3xl" />
       </div>
 
-      <div className="relative z-10 w-full max-w-4xl">
+      <div className="relative z-10 w-full max-w-4xl top-20">
         <header className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-display font-bold text-foreground mb-4">
             Latest Insights
