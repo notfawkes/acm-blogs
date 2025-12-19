@@ -2,6 +2,8 @@ import { useQuery } from "@tanstack/react-query";
 import { AnimatedTabs, Tab } from "@/components/AnimatedTabs";
 import { BlogCard } from "@/components/BlogCard";
 import { Skeleton } from "@/components/ui/skeleton";
+import { Footer } from "@/components/Footer";
+import '../App.css'
 
 interface BlogPost {
   _id: string;
@@ -86,6 +88,31 @@ const Index = () => {
         {blogs && blogs.length > 0 && (
           <AnimatedTabs tabs={tabs} className="mx-auto" />
         )}
+      </div>
+      <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+            <br>
+      </br>
+      <div className="footerContainer">
+        <Footer />
       </div>
     </main>
   );

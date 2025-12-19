@@ -41,3 +41,11 @@
 .read-the-docs {
   color: #888;
 }
+
+      .footerContainer {
+        position: 'relative';
+        z-index: 3;
+        width: '100%';
+        bottom: '0';
+        left: '0';
+      }
