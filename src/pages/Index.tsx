@@ -89,28 +89,17 @@ const Index = () => {
           <AnimatedTabs tabs={tabs} className="mx-auto" />
         )}
       </div>
-      <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
-            <br>
-      </br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
       <div className="footerContainer">
         <Footer />
       </div>

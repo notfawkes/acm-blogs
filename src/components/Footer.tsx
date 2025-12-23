@@ -33,27 +33,27 @@ export const Footer = () => {
           <h3 className="text-lg font-bold mb-4">Pages</h3>
           <ul className="space-y-2 text-sm">
             <li>
-              <a href="https://acm-sigai.vercel.app/" className="text-foreground/70 hover:text-accent transition-colors">
+              <a href="https://acmsigai.tcetmumbai.in/" className="text-foreground/70 hover:text-accent transition-colors">
                 Home
               </a>
             </li>
             <li>
-              <a href="https://acm-sigai.vercel.app/Events" className="text-foreground/70 hover:text-accent transition-colors">
+              <a href="https://acmsigai.tcetmumbai.in/Events" className="text-foreground/70 hover:text-accent transition-colors">
                 Events
               </a>
             </li>
             <li>
-              <a href="https://acm-sigai.vercel.app/Our-Team" className="text-foreground/70 hover:text-accent transition-colors">
+              <a href="https://acmsigai.tcetmumbai.in/Our-Team" className="text-foreground/70 hover:text-accent transition-colors">
                 Team
               </a>
             </li>
             <li>
-              <a href="https://acm-sigai.vercel.app/Publications" className="text-foreground/70 hover:text-accent transition-colors">
+              <a href="https://acmsigai.tcetmumbai.in/Publications" className="text-foreground/70 hover:text-accent transition-colors">
                 Publications
               </a>
             </li>
             <li>
-              <a href="https://acm-sigai.vercel.app/Blogs" className="text-foreground/70 hover:text-accent transition-colors">
+              <a href="https://acmsigai.tcetmumbai.in/Blogs" className="text-foreground/70 hover:text-accent transition-colors">
                 Blogs
               </a>
             </li>
